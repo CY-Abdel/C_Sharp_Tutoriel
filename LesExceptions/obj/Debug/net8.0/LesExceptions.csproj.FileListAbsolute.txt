@@ -1,0 +1,14 @@
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\bin\Debug\net8.0\LesExceptions.exe
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\bin\Debug\net8.0\LesExceptions.deps.json
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\bin\Debug\net8.0\LesExceptions.runtimeconfig.json
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\bin\Debug\net8.0\LesExceptions.dll
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\bin\Debug\net8.0\LesExceptions.pdb
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\obj\Debug\net8.0\LesExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\obj\Debug\net8.0\LesExceptions.AssemblyInfoInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\obj\Debug\net8.0\LesExceptions.AssemblyInfo.cs
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\obj\Debug\net8.0\LesExceptions.csproj.CoreCompileInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\obj\Debug\net8.0\LesExceptions.dll
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\obj\Debug\net8.0\refint\LesExceptions.dll
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\obj\Debug\net8.0\LesExceptions.pdb
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\obj\Debug\net8.0\LesExceptions.genruntimeconfig.cache
+D:\Users\juba_\source\repos\HelloWorld\LesExceptions\obj\Debug\net8.0\ref\LesExceptions.dll

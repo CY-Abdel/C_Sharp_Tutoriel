@@ -1,0 +1,14 @@
+D:\Users\juba_\source\repos\HelloWorld\strings\bin\Debug\net8.0\strings.exe
+D:\Users\juba_\source\repos\HelloWorld\strings\bin\Debug\net8.0\strings.deps.json
+D:\Users\juba_\source\repos\HelloWorld\strings\bin\Debug\net8.0\strings.runtimeconfig.json
+D:\Users\juba_\source\repos\HelloWorld\strings\bin\Debug\net8.0\strings.dll
+D:\Users\juba_\source\repos\HelloWorld\strings\bin\Debug\net8.0\strings.pdb
+D:\Users\juba_\source\repos\HelloWorld\strings\obj\Debug\net8.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\juba_\source\repos\HelloWorld\strings\obj\Debug\net8.0\strings.AssemblyInfoInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\strings\obj\Debug\net8.0\strings.AssemblyInfo.cs
+D:\Users\juba_\source\repos\HelloWorld\strings\obj\Debug\net8.0\strings.csproj.CoreCompileInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\strings\obj\Debug\net8.0\strings.dll
+D:\Users\juba_\source\repos\HelloWorld\strings\obj\Debug\net8.0\refint\strings.dll
+D:\Users\juba_\source\repos\HelloWorld\strings\obj\Debug\net8.0\strings.pdb
+D:\Users\juba_\source\repos\HelloWorld\strings\obj\Debug\net8.0\strings.genruntimeconfig.cache
+D:\Users\juba_\source\repos\HelloWorld\strings\obj\Debug\net8.0\ref\strings.dll

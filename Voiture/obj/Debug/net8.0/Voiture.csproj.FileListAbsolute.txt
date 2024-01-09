@@ -1,0 +1,14 @@
+D:\Users\juba_\source\repos\HelloWorld\Voiture\bin\Debug\net8.0\Voiture.exe
+D:\Users\juba_\source\repos\HelloWorld\Voiture\bin\Debug\net8.0\Voiture.deps.json
+D:\Users\juba_\source\repos\HelloWorld\Voiture\bin\Debug\net8.0\Voiture.runtimeconfig.json
+D:\Users\juba_\source\repos\HelloWorld\Voiture\bin\Debug\net8.0\Voiture.dll
+D:\Users\juba_\source\repos\HelloWorld\Voiture\bin\Debug\net8.0\Voiture.pdb
+D:\Users\juba_\source\repos\HelloWorld\Voiture\obj\Debug\net8.0\Voiture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\juba_\source\repos\HelloWorld\Voiture\obj\Debug\net8.0\Voiture.AssemblyInfoInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\Voiture\obj\Debug\net8.0\Voiture.AssemblyInfo.cs
+D:\Users\juba_\source\repos\HelloWorld\Voiture\obj\Debug\net8.0\Voiture.csproj.CoreCompileInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\Voiture\obj\Debug\net8.0\Voiture.dll
+D:\Users\juba_\source\repos\HelloWorld\Voiture\obj\Debug\net8.0\refint\Voiture.dll
+D:\Users\juba_\source\repos\HelloWorld\Voiture\obj\Debug\net8.0\Voiture.pdb
+D:\Users\juba_\source\repos\HelloWorld\Voiture\obj\Debug\net8.0\Voiture.genruntimeconfig.cache
+D:\Users\juba_\source\repos\HelloWorld\Voiture\obj\Debug\net8.0\ref\Voiture.dll

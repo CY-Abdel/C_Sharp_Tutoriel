@@ -1,0 +1,14 @@
+D:\Users\juba_\source\repos\HelloWorld\FilesText\bin\Debug\net8.0\FilesText.exe
+D:\Users\juba_\source\repos\HelloWorld\FilesText\bin\Debug\net8.0\FilesText.deps.json
+D:\Users\juba_\source\repos\HelloWorld\FilesText\bin\Debug\net8.0\FilesText.runtimeconfig.json
+D:\Users\juba_\source\repos\HelloWorld\FilesText\bin\Debug\net8.0\FilesText.dll
+D:\Users\juba_\source\repos\HelloWorld\FilesText\bin\Debug\net8.0\FilesText.pdb
+D:\Users\juba_\source\repos\HelloWorld\FilesText\obj\Debug\net8.0\FilesText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\juba_\source\repos\HelloWorld\FilesText\obj\Debug\net8.0\FilesText.AssemblyInfoInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\FilesText\obj\Debug\net8.0\FilesText.AssemblyInfo.cs
+D:\Users\juba_\source\repos\HelloWorld\FilesText\obj\Debug\net8.0\FilesText.csproj.CoreCompileInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\FilesText\obj\Debug\net8.0\FilesText.dll
+D:\Users\juba_\source\repos\HelloWorld\FilesText\obj\Debug\net8.0\refint\FilesText.dll
+D:\Users\juba_\source\repos\HelloWorld\FilesText\obj\Debug\net8.0\FilesText.pdb
+D:\Users\juba_\source\repos\HelloWorld\FilesText\obj\Debug\net8.0\FilesText.genruntimeconfig.cache
+D:\Users\juba_\source\repos\HelloWorld\FilesText\obj\Debug\net8.0\ref\FilesText.dll

@@ -1,0 +1,14 @@
+D:\Users\juba_\source\repos\HelloWorld\Person\bin\Debug\net8.0\Person.exe
+D:\Users\juba_\source\repos\HelloWorld\Person\bin\Debug\net8.0\Person.deps.json
+D:\Users\juba_\source\repos\HelloWorld\Person\bin\Debug\net8.0\Person.runtimeconfig.json
+D:\Users\juba_\source\repos\HelloWorld\Person\bin\Debug\net8.0\Person.dll
+D:\Users\juba_\source\repos\HelloWorld\Person\bin\Debug\net8.0\Person.pdb
+D:\Users\juba_\source\repos\HelloWorld\Person\obj\Debug\net8.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\juba_\source\repos\HelloWorld\Person\obj\Debug\net8.0\Person.AssemblyInfoInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\Person\obj\Debug\net8.0\Person.AssemblyInfo.cs
+D:\Users\juba_\source\repos\HelloWorld\Person\obj\Debug\net8.0\Person.csproj.CoreCompileInputs.cache
+D:\Users\juba_\source\repos\HelloWorld\Person\obj\Debug\net8.0\Person.dll
+D:\Users\juba_\source\repos\HelloWorld\Person\obj\Debug\net8.0\refint\Person.dll
+D:\Users\juba_\source\repos\HelloWorld\Person\obj\Debug\net8.0\Person.pdb
+D:\Users\juba_\source\repos\HelloWorld\Person\obj\Debug\net8.0\Person.genruntimeconfig.cache
+D:\Users\juba_\source\repos\HelloWorld\Person\obj\Debug\net8.0\ref\Person.dll
